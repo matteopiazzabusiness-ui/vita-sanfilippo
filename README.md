@@ -4,6 +4,12 @@ Sito di presentazione per Vita Sanfilippo, professionista e consulente per la cu
 
 **Progetto completo e pronto da consegnare:** HTML, CSS, JavaScript, immagini e contenuti editoriali. Nessuna dipendenza npm, database o chiave API.
 
+## Sito pubblico
+
+https://matteopiazzabusiness-ui.github.io/vita-sanfilippo/
+
+Accessibile senza account, ospitato su GitHub Pages.
+
 ## Avvio in un minuto
 
 ```sh
@@ -86,6 +92,6 @@ Due fotografie sono rielaborazioni AI basate sulle immagini originali di Vita; d
 
 ## Prima della pubblicazione sul dominio definitivo
 
-Aggiorna `og:image` e il campo `url` dei dati strutturati in `dist/index.html` con il dominio scelto. Attualmente indicano l’anteprima privata Sites. Verifica inoltre la pagina privacy collegata e completa gli eventuali dati legali dell’attività.
+Aggiorna `og:image` e il campo `url` dei dati strutturati in `dist/index.html` con il dominio scelto. Attualmente indicano il sito pubblico GitHub Pages. Verifica inoltre la pagina privacy collegata e completa gli eventuali dati legali dell’attività.
 
 Prezzi, orari e titoli professionali non verificati non sono stati aggiunti. Gli appuntamenti vengono concordati direttamente con il salone.

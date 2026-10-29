@@ -2,6 +2,8 @@
 
 Repository: https://github.com/matteopiazzabusiness-ui/vita-sanfilippo
 
+Sito pubblico: https://matteopiazzabusiness-ui.github.io/vita-sanfilippo/
+
 ## Cosa contiene
 
 Sito responsive completo, con foto di Vita, sei approfondimenti, Reel collegati, animazioni durante lo scroll e richiesta di consulenza su WhatsApp. I file pubblicabili sono già nella cartella `dist/`.
