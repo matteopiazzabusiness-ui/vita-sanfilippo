@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+.openai/
+outputs/
+__pycache__/
+*.pyc
+*.tar.gz
+*.zip
+.DS_Store
+Thumbs.db
